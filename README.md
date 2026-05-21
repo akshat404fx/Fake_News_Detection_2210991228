@@ -10,8 +10,8 @@
 |---|---|
 | **Name** | Akshat Mittal |
 | **Roll No.** | 2210991228 |
-| **Institution** | Chitkara University, Rajpura, Punjab, India |
 | **Email** | akshat1228.be22@chitkara.edu.in |
+| **Institution** | Chitkara University, Rajpura, Punjab, India |
 
 ---
 
@@ -40,7 +40,7 @@ Fake-News-Detection-2210991228/
 │
 ├── IPR_Submission_Proof/       # Journal submission confirmation & proof of submission
 │
-├── PPT_and_Report/             # Presentation slides and full research paper/report
+├── PPT_and_Report/             # Presentation slides and Report
 │
 ├── Source_Code/                # Jupyter notebook with all experiments and analysis
 │
