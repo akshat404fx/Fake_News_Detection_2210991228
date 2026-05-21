@@ -27,8 +27,8 @@ The **Passive-Aggressive Classifier** combined with **TF-IDF Unigram + Bigram** 
 
 | Field | Details |
 |---|---|
-| **Title** | *Fake News Detection using Machine Learning: A Comparative Study of Classical Supervised Learning Algorithms* |
 | **Deliverable Type** | Research Paper |
+| **Title** | *Fake News Detection using Machine Learning: A Comparative Study of Classical Supervised Learning Algorithms* |
 | **Current Status** | ✅ Submitted to Journal |
 
 ---
